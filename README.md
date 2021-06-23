@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rilwan ul haq
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m Angular developer
 - 📫 Reach me @ mr.rillu2@gmail.com
 
 <!---
