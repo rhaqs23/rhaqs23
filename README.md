@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rilwan ul haq
-- 👀 I’m interested in web development 
-- 🌱 I’m Angular developer
+- 👀 I’m interested in web and mobile developement
+- 🌱 I’m Angular and flutter developer 
 - 📫 Reach me @ mr.rillu2@gmail.com
 
 <!---
