@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?rhaqs23)
+![](https://hit.yhype.me/github/profile?user_id=28698935)
 
 - 👋 Hi, I’m Rilwan ul haq
 - 👀 I’m interested in web and mobile developement
