@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?rhaqs23)
+![Visitor Count](https://komarev.com/ghpvc/?rhaqs23)
 
 - 👋 Hi, I’m Rilwan ul haq
 - 👀 I’m interested in web and mobile developement
