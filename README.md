@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m Rilwan ul haq
-- 👀 I’m interested in web and mobile developement
-- 🌱 I’m Angular and flutter developer 
-- 📫 Reach me @ mr.rillu2@gmail.com
+- 💻 Passionate about web & mobile development
+- 🚀 Crafting seamless experiences with Angular & Flutter 
+- 📩 Let’s connect: mr.rillu2@gmail.com
 
 <!---
 rhaqs23/rhaqs23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
