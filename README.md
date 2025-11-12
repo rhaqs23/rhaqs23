@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Rilwan ul haq
-- 💻 Passionate about web & mobile development
-- 🚀 Crafting seamless experiences with Angular & Flutter 
+- 💻 Passionate about AI, Web & Mobile development
+- 🚀 Crafting seamless experiences with Angular, React, React Native, Flutter & Agentic AI
 - 📩 Let’s connect: mr.rillu2@gmail.com
 
 <!---
